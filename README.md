@@ -16,7 +16,7 @@ To build a web design skeleton using html/css.
 <!-- take a picture of the image and add it into the readme  -->
 <!-- ![image title](path or link to image) -->
 
-![Solution Outline](./Solution-Image.jpg)
+![Solution Outline](./Solution-Image.JPG)
 
 # technology used
 <!-- make a list of technology used -->
