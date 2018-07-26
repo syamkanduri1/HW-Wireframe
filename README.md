@@ -56,7 +56,7 @@ associated class in CSS file is
 
 # Learning points
 <!-- Learning points where you would write what you thought was helpful -->
-Chrome debugger tool was helpful to get job done; however, I ended up doing lot of hardcoding for now to get the job done. Need thorough reivew / guidance to help remove hardcodes.
+Chrome DevTools tool was helpful to get job done; however, I ended up doing lot of hardcoding for now to get the job done. Need thorough reivew / guidance to help remove hardcodes.
 
 # Author 
 Syam Kanduri
