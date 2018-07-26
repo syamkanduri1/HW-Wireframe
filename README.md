@@ -38,13 +38,25 @@ html, css
 <!-- if you want to put blockquotes use a > -->
 
 ```
-Example Snippet
+In the html file, I have coded..
+<aside id="right">
+    aside
+</aside>
+
+associated class in CSS file is
+
+#right {
+    float: left;
+    width: 25%;
+    margin-left: 5px;
+  }
+
 ```
 
 
 # Learning points
 <!-- Learning points where you would write what you thought was helpful -->
-
+Chrome debugger tool was help to get job done; however, I ended up doing lot of hardcoding for now to get the job done. Need thorough reivew / guidance to help remove hardcodes.
 
 # Author 
 Syam Kanduri
